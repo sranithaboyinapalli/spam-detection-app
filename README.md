@@ -14,4 +14,4 @@ This is a Machine Learning web application that detects whether a message is Spa
 - Machine Learning based prediction
 ## Output Screenshot
 
-![Spam Detection Output](screenshots/output.png)
+![Spam Detection Output](Screenshots/output.png)
